@@ -4,6 +4,10 @@
 
 Un laboratorio interattivo, gratuito e completamente autonomo nel browser per esercitarsi a **controllare le affermazioni prodotte dall'intelligenza artificiale** attraverso documenti di riferimento. È utilizzabile da singoli, gruppi di lavoro, formatori, biblioteche e organizzazioni che desiderano allenare il controllo delle fonti e il pensiero critico.
 
+
+<img width="1231" height="785" alt="Screenshot 2026-10-22 alle 20 21 54" src="https://github.com/user-attachments/assets/ef321ac7-9a66-43b6-a9b5-575ce262c581" />
+
+
 Il progetto è un sito statico: non richiede iscrizione, credenziali, API, servizi di IA o un server applicativo.
 
 ## In breve
