@@ -27,16 +27,6 @@ Il progetto è un sito statico: non richiede iscrizione, credenziali, API, servi
 
 Non serve installare nulla.
 
-### Su GitHub Pages
-
-1. Crea un repository GitHub (per esempio `il-verificatore`).
-2. Carica `index.html` e questo `README.md` nella cartella principale.
-3. Apri **Settings → Pages**.
-4. In **Build and deployment**, scegli **Deploy from a branch**, ramo `main`, cartella `/(root)`.
-5. Una volta pubblicato, l'indirizzo avrà in genere la forma `https://<account>.github.io/<repository>/`.
-
-Le impostazioni effettive di Pages possono variare in funzione del repository e dell'account.
-
 ## Come funziona
 
 1. Seleziona un fascicolo.
@@ -97,7 +87,7 @@ La pagina utilizza pulsanti, etichette e controlli HTML standard; supporta la na
 
 ## Riutilizzo
 
-Il progetto è pronto da copiare e ospitare come sito statico. Se intendi distribuirne versioni derivate, scegli e aggiungi al repository una licenza esplicita che definisca i termini di riutilizzo.
+Il progetto può essere riutilizzato da chiunque. Non reclamo nessun diritto
 
 ---
 
