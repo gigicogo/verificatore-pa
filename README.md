@@ -27,6 +27,10 @@ Il progetto è un sito statico: non richiede iscrizione, credenziali, API, servi
 
 Non serve installare nulla.
 
+### Sul Github Pages
+
+https://gigicogo.github.io/verificatore-pa/
+
 ## Come funziona
 
 1. Seleziona un fascicolo.
