@@ -92,3 +92,11 @@ Il progetto può essere riutilizzato da chiunque. Non reclamo nessun diritto
 ---
 
 **Principio di fondo:** un testo sicuro da riutilizzare non è soltanto un testo ben scritto: è un testo le cui affermazioni rilevanti sono state controllate sulle fonti giuste.
+
+## Risorse collegate
+---
+Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+
+- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
+- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
+- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
